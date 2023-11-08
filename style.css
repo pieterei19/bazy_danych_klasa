@@ -1,0 +1,8 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+table {
+    margin: auto;
+    border: 4px solid black;
+}
